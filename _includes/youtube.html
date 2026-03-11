@@ -1,0 +1,14 @@
+{%- if include.video_ID -%}
+<div class="video-embed">
+    <iframe 
+    src="https://www.youtube.com/embed/{{ include.video_ID }}" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" 
+    allowfullscreen>
+    </iframe>
+</div>
+{%- else -%}
+<h3>No video ID provided</h3>
+{%- endif -%}
