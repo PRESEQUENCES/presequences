@@ -19,9 +19,7 @@ I think that when someone asks how to get started, you do them a disservice if y
 
 ## Why Bother Writing Anyway?
 
-This idea applies broadly, but writing is a particularly good example.
-
-Writing is hard work. It's arduous, and increasingly thankless in a world of soundbites, doomscrolling, and proud ignorance. People don't read [^reading], so why bother writing? Besides, AI can do the writing anyway. My short answer is simply this: It's not about the end result, it's about the process. There's also a more pragmatic reason...
+This idea applies broadly, but writing is a particularly good example. Writing is hard work. It's arduous, and increasingly thankless in a world of soundbites, doomscrolling, and proud ignorance. People don't read [^reading], so why bother writing? Besides, AI can do the writing anyway. My short answer is simply this: It's not about the end result, it's about the process. There's also a more pragmatic reason...
 
 I’m not a resolutions kind of guy, nor do I announce any of my goal-setting. It’s not that I don’t set goals for myself; it’s just that I don’t really make any pronouncements about them. It’s also not that I don’t achieve my goals. I tend not to promote my achievements either. This is probably why I struggle so much with writing résumés, LinkedIn profiles, etc.
 
